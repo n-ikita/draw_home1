@@ -3,7 +3,7 @@ def floor():
     TODO: From Alex
     :return: None
     """
-
+    pass
 
 def window():
     """
